@@ -1,0 +1,4 @@
+fastapi
+uvicorn[standard]
+If your file isn’t called main.py or the app isn’t named app, adjust later in the start
+command.
